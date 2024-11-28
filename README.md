@@ -3,7 +3,7 @@
 - 🌱 I am currently learning to program 
 - 💞️ I am looking to collaborate on applications
 - 📫 How to contact me through GitHub itself.
-- 😄 Pronouns: Her.
+- 😄 Pronouns: Nana.
 - ⚡ Fun fact: I want to work in a company in Japan.
 
 <!---
